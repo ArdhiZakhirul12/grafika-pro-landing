@@ -1,4 +1,4 @@
-<!-- Adegan bagian "Kerja tim nggak harus saling tunggu":
+~<!-- Adegan bagian "Kerja tim nggak harus saling tunggu":
      pekerja bingung dikepung pertanyaan, lalu tugas berikutnya muncul dan semuanya jelas.
      Gerakan diatur lewat CSS di src/styles/global.css (bagian "Adegan pekerja bingung"). -->
 <template>
