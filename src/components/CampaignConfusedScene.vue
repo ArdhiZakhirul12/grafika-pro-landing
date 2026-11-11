@@ -1,14 +1,14 @@
-~<!-- Adegan bagian "Kerja tim nggak harus saling tunggu":
+<!-- Adegan bagian "Kerja tim nggak harus saling tunggu":
      pekerja bingung dikepung pertanyaan, lalu tugas berikutnya muncul dan semuanya jelas.
      Gerakan diatur lewat CSS di src/styles/global.css (bagian "Adegan pekerja bingung"). -->
 <template>
   <div class="campaign-scene" role="img" aria-label="Ilustrasi: seorang pekerja percetakan bingung harus mengerjakan apa, lalu tugas berikutnya muncul dari Grafika Pro.">
     <div class="chat-bubble chat-1" aria-hidden="true">Yang ini udah dicetak belum?</div>
-    <div class="chat-bubble chat-2" aria-hidden="true">Deadline-nya kapan ya?</div>
+    <div class="chat-bubble chat-2" aria-hidden="true">Kapan deadline order ini?</div>
     <div class="chat-bubble chat-3" aria-hidden="true">Habis ini ngerjain apa?</div>
 
     <div class="task-card" aria-hidden="true">
-      <span class="task-label">Tugas berikutnya</span>
+      <span class="task-label"><span class="tiny-square"></span>Tugas berikutnya</span>
       <strong>GP-2417, banner 3 × 1 m</strong>
       <span class="task-step">Potong dan pasang mata ayam</span>
       <span class="task-chip">Giliran Anda</span>
